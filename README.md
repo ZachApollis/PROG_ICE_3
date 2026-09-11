@@ -236,7 +236,7 @@ Example:
 ---
 GitHub Repository
 
-GitHub Link: 
+GitHub Link: https://github.com/ZachApollis/PROG_ICE_3
 
 
 ---
@@ -254,8 +254,6 @@ This project helped me improve my understanding of Java Swing, event handling, g
 ---
 
 Zachary Apollis
-
-**Name:** [Your Name]
 
 **Course:** Computer Science
 
